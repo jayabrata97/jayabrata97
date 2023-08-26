@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Jayabrata Chowdhury (@jayabrata97). I am a graduate student at Robert Bosch Centre for Cyber Physical Systems, Indian Institute of Science, Bangalore.
-- 👀 I’m interested in Deep Learning, Reinforcement learning and it's application in planning algorithms for Autonomous Vehicles, Natural Language Processing. 
-- 🌱 I’m currently learning about Natural Language Processing and Recommender Systems.
+- 👋 Hi, I’m Jayabrata Chowdhury (@jayabrata97). I am a graduate student at the Robert Bosch Centre for Cyber Physical Systems, Indian Institute of Science, Bangalore.
+- 👀 I'm currently working on Predictive Planning Algorithms with uncertainties. I’m interested in Deep Learning, Reinforcement learning, and its application in planning algorithms, Natural Language Processing (NLP), and financial industries. 
+- 🌱 I’m currently learning about the application of ideas from NLP in different domains like Recommender Systems.
 - 💞️ I’m looking to collaborate on Deep Learning projects.
 - 📫 How to reach me: jayabratac@iisc.ac.in, https://in.linkedin.com/in/jayabrata-chowdhury
 
