@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Deep Reinforcement Learning and Predictive Planning algorithms**
 
-- 🌱 I’m currently learning **about Natural Language Processing with HuggingFace and Graph Machine Learning**
+- 🌱 I’m currently learning **about Natural Language Processing and Graph Machine Learning**
 
 - 👯 I’m looking to collaborate on **Deep Learning based projects**
 
