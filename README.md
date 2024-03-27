@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on **Deep Learning based projects**
 
-- 📫 How to reach me **jayabratac@iisc.ac.in**
+- 📫 How to reach me **jayabratachowdhury45@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
