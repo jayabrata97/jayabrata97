@@ -5,11 +5,13 @@
 
 <p align="left"> <a href="https://twitter.com/jayabrata03787" target="blank"><img src="https://img.shields.io/twitter/follow/jayabrata03787?logo=twitter&style=for-the-badge" alt="jayabrata03787" /></a> </p>
 
-- 🔭 I’m currently working on **Deep Reinforcement Learning and Predictive Planning algorithms**
+- 🔭 I’m currently working on **Deep Reinforcement Learning and Code analysis**
 
 - 🌱 I’m currently learning **about Natural Language Processing and Graph Machine Learning**
 
 - 👯 I’m looking to collaborate on **Deep Learning based projects**
+  
+- I worked on **Predictive Planning Algorithm**
 
 - 📫 How to reach me **jayabratachowdhury45@gmail.com**
 
